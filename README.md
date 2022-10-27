@@ -1,5 +1,5 @@
 # linux
-关于linux编程的一些东西，学弟们记得star和fork哦
+关于linux编程的一些东西，学弟学妹们记得star和fork哦
 
 ## 文件说明
 
